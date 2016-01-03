@@ -1,4 +1,4 @@
-# Script to autoupdate nordvpn servers list
+# Script to autoupdate nordvpn server's list
 
 This script downloads the servers list from NordVPN and automatically changes their names to end in .conf so they are debian init script compliant.
 
